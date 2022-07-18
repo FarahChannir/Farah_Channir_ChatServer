@@ -1,0 +1,16 @@
+C:\Users\farah\source\repos\Farah_Channir_ChatServer\Farah_Channir_Client\bin\Debug\net5.0\Farah_Channir_Client.exe
+C:\Users\farah\source\repos\Farah_Channir_ChatServer\Farah_Channir_Client\bin\Debug\net5.0\Farah_Channir_Client.deps.json
+C:\Users\farah\source\repos\Farah_Channir_ChatServer\Farah_Channir_Client\bin\Debug\net5.0\Farah_Channir_Client.runtimeconfig.json
+C:\Users\farah\source\repos\Farah_Channir_ChatServer\Farah_Channir_Client\bin\Debug\net5.0\Farah_Channir_Client.runtimeconfig.dev.json
+C:\Users\farah\source\repos\Farah_Channir_ChatServer\Farah_Channir_Client\bin\Debug\net5.0\Farah_Channir_Client.dll
+C:\Users\farah\source\repos\Farah_Channir_ChatServer\Farah_Channir_Client\bin\Debug\net5.0\ref\Farah_Channir_Client.dll
+C:\Users\farah\source\repos\Farah_Channir_ChatServer\Farah_Channir_Client\bin\Debug\net5.0\Farah_Channir_Client.pdb
+C:\Users\farah\source\repos\Farah_Channir_ChatServer\Farah_Channir_Client\obj\Debug\net5.0\Farah_Channir_Client.csproj.AssemblyReference.cache
+C:\Users\farah\source\repos\Farah_Channir_ChatServer\Farah_Channir_Client\obj\Debug\net5.0\Farah_Channir_Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\farah\source\repos\Farah_Channir_ChatServer\Farah_Channir_Client\obj\Debug\net5.0\Farah_Channir_Client.AssemblyInfoInputs.cache
+C:\Users\farah\source\repos\Farah_Channir_ChatServer\Farah_Channir_Client\obj\Debug\net5.0\Farah_Channir_Client.AssemblyInfo.cs
+C:\Users\farah\source\repos\Farah_Channir_ChatServer\Farah_Channir_Client\obj\Debug\net5.0\Farah_Channir_Client.csproj.CoreCompileInputs.cache
+C:\Users\farah\source\repos\Farah_Channir_ChatServer\Farah_Channir_Client\obj\Debug\net5.0\Farah_Channir_Client.dll
+C:\Users\farah\source\repos\Farah_Channir_ChatServer\Farah_Channir_Client\obj\Debug\net5.0\ref\Farah_Channir_Client.dll
+C:\Users\farah\source\repos\Farah_Channir_ChatServer\Farah_Channir_Client\obj\Debug\net5.0\Farah_Channir_Client.pdb
+C:\Users\farah\source\repos\Farah_Channir_ChatServer\Farah_Channir_Client\obj\Debug\net5.0\Farah_Channir_Client.genruntimeconfig.cache

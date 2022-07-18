@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Farah_Channir_ChatServer", "Farah_Channir_ChatServer\Farah_Channir_ChatServer.csproj", "{BB5C1714-4382-47B6-8168-A5A5FF2F9252}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Farah_Channir_Client", "Farah_Channir_Client\Farah_Channir_Client.csproj", "{2C667188-0768-486A-A229-39874627C4F2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB5C1714-4382-47B6-8168-A5A5FF2F9252}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB5C1714-4382-47B6-8168-A5A5FF2F9252}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB5C1714-4382-47B6-8168-A5A5FF2F9252}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB5C1714-4382-47B6-8168-A5A5FF2F9252}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C667188-0768-486A-A229-39874627C4F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C667188-0768-486A-A229-39874627C4F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C667188-0768-486A-A229-39874627C4F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C667188-0768-486A-A229-39874627C4F2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FCBE2CA6-8B9E-4429-9D1B-074BC690180C}
+	EndGlobalSection
+EndGlobal

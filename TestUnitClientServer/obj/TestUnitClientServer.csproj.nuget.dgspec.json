@@ -1,0 +1,225 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\farah\\source\\repos\\Farah_Channir_ChatServer\\TestUnitClientServer\\TestUnitClientServer.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\farah\\source\\repos\\Farah_Channir_ChatServer\\Farah_Channir_ChatServer\\Farah_Channir_ChatServer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\farah\\source\\repos\\Farah_Channir_ChatServer\\Farah_Channir_ChatServer\\Farah_Channir_ChatServer.csproj",
+        "projectName": "Farah_Channir_ChatServer",
+        "projectPath": "C:\\Users\\farah\\source\\repos\\Farah_Channir_ChatServer\\Farah_Channir_ChatServer\\Farah_Channir_ChatServer.csproj",
+        "packagesPath": "C:\\Users\\farah\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\farah\\source\\repos\\Farah_Channir_ChatServer\\Farah_Channir_ChatServer\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\farah\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 19.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\DevExpress 19.2\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\farah\\source\\repos\\Farah_Channir_ChatServer\\Farah_Channir_Client\\Farah_Channir_Client.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\farah\\source\\repos\\Farah_Channir_ChatServer\\Farah_Channir_Client\\Farah_Channir_Client.csproj",
+        "projectName": "Farah_Channir_Client",
+        "projectPath": "C:\\Users\\farah\\source\\repos\\Farah_Channir_ChatServer\\Farah_Channir_Client\\Farah_Channir_Client.csproj",
+        "packagesPath": "C:\\Users\\farah\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\farah\\source\\repos\\Farah_Channir_ChatServer\\Farah_Channir_Client\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\farah\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 19.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\DevExpress 19.2\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "System.Net.WebSockets.Client": {
+              "target": "Package",
+              "version": "[4.3.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\farah\\source\\repos\\Farah_Channir_ChatServer\\TestUnitClientServer\\TestUnitClientServer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\farah\\source\\repos\\Farah_Channir_ChatServer\\TestUnitClientServer\\TestUnitClientServer.csproj",
+        "projectName": "TestUnitClientServer",
+        "projectPath": "C:\\Users\\farah\\source\\repos\\Farah_Channir_ChatServer\\TestUnitClientServer\\TestUnitClientServer.csproj",
+        "packagesPath": "C:\\Users\\farah\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\farah\\source\\repos\\Farah_Channir_ChatServer\\TestUnitClientServer\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\farah\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 19.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\DevExpress 19.2\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\farah\\source\\repos\\Farah_Channir_ChatServer\\Farah_Channir_ChatServer\\Farah_Channir_ChatServer.csproj": {
+                "projectPath": "C:\\Users\\farah\\source\\repos\\Farah_Channir_ChatServer\\Farah_Channir_ChatServer\\Farah_Channir_ChatServer.csproj"
+              },
+              "C:\\Users\\farah\\source\\repos\\Farah_Channir_ChatServer\\Farah_Channir_Client\\Farah_Channir_Client.csproj": {
+                "projectPath": "C:\\Users\\farah\\source\\repos\\Farah_Channir_ChatServer\\Farah_Channir_Client\\Farah_Channir_Client.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[2.2.3, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[2.2.3, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.9.4, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[3.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
